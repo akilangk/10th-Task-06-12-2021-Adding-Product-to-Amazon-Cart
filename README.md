@@ -1,7 +1,7 @@
 **Aim: Logging in to amazon website and Search a product and add the product to cart**
 * Design Pattern: Page Object Model using Page factory.
 
-* Used basic TestNG annotations, concepts like priorities and configured the test using xml file.
+* Used basic TestNG annotations and priorities
 
 **Script Workflow**
 
